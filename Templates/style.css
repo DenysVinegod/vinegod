@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+}
+
+.header{
+	border: solid 1px black;
+	text-align: center;
+}
+
+.content{
+	border: solid 1px black;
+}
+
+.footer{
+	border: solid 1px black;
+	text-align: center;
+}
