@@ -16,13 +16,16 @@
 	
 	<div class="content">
 		<div class="whole_wrapper">
-			content
+			<div id="avatar">
+				<img src="/Images/Content/avatar.jpg" alt="avatar">
+				<div class="name"> Denys Melnychuck </div>
+			</div>
 		</div>
 	</div>
 	
 	<div class="footer">
 		<div class="whole_wrapper">
-			footer
+			&copy; 2020-<?php echo (date('Y')); ?> Vinegod
 		</div>
 	</div>
 </body>

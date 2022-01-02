@@ -1,17 +1,43 @@
+html, body {
+	height: 100%;
+}
+
 body{
 	margin: 0;
+	display: flex;
+	flex-direction: column;
 }
 
 .header{
+	flex: 0 0 auto;
 	border: solid 1px black;
 	text-align: center;
 }
 
 .content{
+	flex: 1 0 auto;
+}
+
+.content .whole_wrapper{
+	display: flex;
+	justify-content: center;
+}
+
+#avatar{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto;
+}
+
+#avatar img{
 	border: solid 1px black;
+	border-radius: 50%;
+	margin: 5px;
+	width: 100px;
 }
 
 .footer{
+	flex: 0 0 auto;
 	border: solid 1px black;
 	text-align: center;
 }
