@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Vinegod</title>
-	<link rel="stylesheet" type="text/css" href="/Templates/style.css">
+	<link rel="stylesheet" type="text/css" href="/asserts/style.css">
 </head>
 
 <body>
@@ -17,7 +17,7 @@
 	<div class="content">
 		<div class="whole_wrapper">
 			<div id="avatar">
-				<img src="/Images/Content/avatar.jpg" alt="avatar">
+				<img src="/images/content/avatar.jpg" alt="avatar">
 				<div class="name"> Denys Melnychuck </div>
 			</div>
 		</div>
